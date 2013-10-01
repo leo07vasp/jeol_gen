@@ -24,8 +24,6 @@ function gen(){
   }
 
 
-
-
 }
 
 document.addEventListener('DOMContentLoaded', function () {

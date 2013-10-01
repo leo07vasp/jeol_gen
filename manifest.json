@@ -5,6 +5,10 @@
   "description": "Ipsum Joel",
   "version": "1.0",
 
+  "background": {
+    "scripts": ["background.js"]
+  },
+
   "permissions": [
     "contextMenus"
   ],
